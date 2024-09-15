@@ -1,0 +1,2 @@
+# alfa-projct
+simpl project
